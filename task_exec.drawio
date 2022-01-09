@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T08:01:09.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Q6HSqh_qmBUveWqcqgw5" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T09:00:37.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="epn3c0bVB-ojPVck6mEa" version="15.8.9" type="github">
   <diagram id="EQ5ZxxlDZ7IuW2nvXHbj" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,9 +69,6 @@
             <mxPoint x="450" y="440" as="sourcePoint" />
             <mxPoint x="450" y="280" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="scu57kikqf5zk905VMQK-15" value="图一：应用程序的执行过程示意" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="220" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="scu57kikqf5zk905VMQK-16" value="应用程序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="60" height="20" as="geometry" />
